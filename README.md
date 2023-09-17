@@ -17,7 +17,7 @@ Create a script that loops through all the stocks for one year and outputs the f
 
 ## Location of the code and Filename
 
-**FileName:** vba-challenge.vba
+**FileName:** vba-challenge.vbs
 
 ## Screenshot File Location and names
 
